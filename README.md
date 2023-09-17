@@ -3,8 +3,8 @@
 ## Overall Progress 
 ![TERM](https://img.shields.io/badge/TERM-1-blue?style=flat)
 ![STARS](https://img.shields.io/badge/STARS-0-gold?style=flat)
-![ASSINGMENTS](https://img.shields.io/badge/ASSIGNMENTS-30-green?style=flat)
-![QUIZZES](https://img.shields.io/badge/QUIZZES-4-purple?style=flat)
+![ASSINGMENTS](https://img.shields.io/badge/ASSIGNMENTS-41-green?style=flat)
+![QUIZZES](https://img.shields.io/badge/QUIZZES-7-purple?style=flat)
 [![Progress][progress-shield]][progress-url]
 [![Drive][drive-shield]][drive-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -13,10 +13,10 @@
 
 ## Contents
 
-### First Term ![image](https://progress-bar.dev/50) ![MIDTERM](https://img.shields.io/badge/MIDTERM-NA-gold?style=flat)  ![ASSINGMENTS](https://img.shields.io/badge/ASSIGNMENTS-30-green?style=flat) ![QUIZZES](https://img.shields.io/badge/QUIZZES-4-purple?style=flat)
+### First Term ![image](https://progress-bar.dev/50) ![MIDTERM](https://img.shields.io/badge/MIDTERM-NA-gold?style=flat)  ![ASSINGMENTS](https://img.shields.io/badge/ASSIGNMENTS-41-green?style=flat) ![QUIZZES](https://img.shields.io/badge/QUIZZES-7-purple?style=flat)
 
 - [Unit 1: Diploma Prerequisites]() ![image](https://progress-bar.dev/100/)
-- [Unit 2: C Programming](https://github.com/Ismail1909/Master_Embedded_System_KS/tree/main/Unit2_C_Programming) ![image](https://progress-bar.dev/63/) ![ASSINGMENTS](https://img.shields.io/badge/ASSIGNMENTS-30-green?style=flat) ![QUIZZES](https://img.shields.io/badge/QUIZZES-4-purple?style=flat)
+- [Unit 2: C Programming](https://github.com/Ismail1909/Master_Embedded_System_KS/tree/main/Unit2_C_Programming) ![image](https://progress-bar.dev/100/) ![ASSINGMENTS](https://img.shields.io/badge/ASSIGNMENTS-41-green?style=flat) ![QUIZZES](https://img.shields.io/badge/QUIZZES-7-purple?style=flat)
 - [Unit 3: Embedded C](Unit_3_Embedded_C) ![image](https://progress-bar.dev/0/)
 - [Unit 4: System Architect](Unit_4_System_Architecture) ![image](https://progress-bar.dev/0/)
 - [Unit 5: First Term Projects](Unit_5_First_Term_Projects) ![image](https://progress-bar.dev/0/)
